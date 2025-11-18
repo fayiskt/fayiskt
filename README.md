@@ -1,7 +1,12 @@
-<!-- Cyberpunk Glow Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Fayis+KT;Full+Stack+Developer;MERN+%26+Next.js+Developer;DevOps+Learner;Coffee+%2B+Code+%3D+Happiness" />
+<!-- Permanent Name Banner -->
+<h1 align="center" style="font-family: Orbitron; font-weight: 700; letter-spacing: 2px;">
+  🚀 Fayis K T
 </h1>
+
+<!-- Cyberpunk Glow Typing Subtitle -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%26+Next.js+Specialist;DevOps+Learner;Coffee+%2B+Code+%3D+Happiness" />
+</h3>
 
 ---
 
@@ -12,7 +17,7 @@ Always learning. Always hacking. Always shipping. 🚀
 
 ---
 
-## 🕶️Tech Stack
+## 🕶️ Tech Stack
 
 ### ⚡ Frontend
 <p align="left">
@@ -33,10 +38,9 @@ Always learning. Always hacking. Always shipping. 🚀
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Languages I Use the Most
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fayiskt&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayiskt&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
