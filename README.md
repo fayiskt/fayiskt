@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me  
 I'm **Fayis KT**, a passionate **Full Stack Developer** crafting powerful, scalable, and efficient digital experiences.  
-I love building modern web apps using **React, Next.js, Node.js, Strapi**, and cloud platforms.  
+I love building modern web apps using **React, Next.js, Node.js**, and cloud platforms.  
 Always learning. Always hacking. Always shipping. 🚀
 
 ---
