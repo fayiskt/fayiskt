@@ -12,7 +12,7 @@ Always learning. Always hacking. Always shipping. 🚀
 
 ---
 
-## 🕶️ Cyberpunk Tech Stack
+## 🕶️Tech Stack
 
 ### ⚡ Frontend
 <p align="left">
